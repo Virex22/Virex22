@@ -1,4 +1,6 @@
-# $$\text{ Salut 👋, Je suis Vincent REMY }$$
+<h1 align="center">
+Salut 👋, Je suis Vincent REMY
+</h1>
 <img src="https://komarev.com/ghpvc/?username=virex22&label=Profile%20views&color=0e75b6&style=flat" alt="virex22" />
 
 ## Bienvenue sur mon Github !
@@ -11,7 +13,7 @@ J'aime les défis, l'originalité et les choses bien faites (peut-être un peu t
 
 - 👋 On peut m'appeler Vincent REMY ou par mon psoeudo Virex22
 
-- 👀 En ce moment je m'interesse a l'UX design
+- 👀 En ce moment je m'interesse à Docker et à l'implémentation d’un CI/CD
 
 - 🌱 Actuellement, j'apprends la création de module sous Prestashop et les méthodologies SCRUM
 
@@ -98,4 +100,4 @@ J'aime les défis, l'originalité et les choses bien faites (peut-être un peu t
 </details>
 
 
-# $$\text{ Merci d'avoir pris le temps de lire mon profil ! }$$
+<h2 align="center"> Merci d'avoir pris le temps de lire mon profil ! </h2>
