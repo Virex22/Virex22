@@ -82,12 +82,6 @@ J'aime les défis, l'originalité et les choses bien faites (peut-être un peu t
 </details>
 
 <details>
-  <summary>📈 Mes statistiques de contribution</summary>
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=virex22&theme=react-dark" alt="virex22" />
-</details>
-
-<details>
   <summary>🌐 Mes statistiques d'utilisation de langage</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virex22&layout=compact&theme=gotham" alt="virex22" />
