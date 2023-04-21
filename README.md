@@ -13,9 +13,9 @@ J'aime les défis, l'originalité et les choses bien faites (peut-être un peu t
 
 - 👋 On peut m'appeler Vincent REMY ou par mon psoeudo Virex22
 
-- 👀 En ce moment je m'interesse à Docker et à l'implémentation d’un CI/CD
+- 👀 En ce moment je m'interesse aux machine learning
 
-- 🌱 Actuellement, j'apprends la création de module sous Prestashop et les méthodologies SCRUM
+- 🌱 Actuellement, j'apprends le Machine Learning, en particulier les algorithmes d'apprentissage supervisé tels que la régression linéaire et la classification. J'explore également les systèmes de pondération et les itérations, ainsi que les techniques de tri pour obtenir la meilleure stratégie dans la résolution de problèmes donnés. Mon objectif est de développer mes compétences en Machine Learning et de les appliquer dans des projets concrets.
 
 - 👨‍🏫 Je propose des cours de C++ (moins maintenant avec le temps que je dispose)
 
