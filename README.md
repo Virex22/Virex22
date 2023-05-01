@@ -93,5 +93,7 @@ J'aime les défis, l'originalité et les choses bien faites (peut-être un peu t
     <img src="https://github-profile-trophy.vercel.app/?username=virex22&theme=onedark" alt="virex22" />
 </details>
 
-
 <h2 align="center"> Merci d'avoir pris le temps de lire mon profil ! </h2>
+
+<p> PS : pour des raisons personnelles, j'ai passé le projet ML-Trade en privé, vous pouvez me ping en PV via discord Virex22#7915 pour pouvoir le visiter
+    
