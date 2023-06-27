@@ -95,5 +95,5 @@ J'aime les défis, l'originalité et les choses bien faites (peut-être un peu t
 
 <h2 align="center"> Merci d'avoir pris le temps de lire mon profil ! </h2>
 
-<p> PS : pour des raisons personnelles, j'ai passé le projet ML-Trade en privé, vous pouvez me ping en PV via discord Virex22#7915 pour pouvoir le visiter
+<p> PS : pour des raisons personnelles, j'ai passé le projet ML-Trade en privé, vous pouvez me ping en PV via discord virex22 pour pouvoir le visiter
     
