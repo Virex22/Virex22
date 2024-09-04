@@ -92,7 +92,7 @@ J'aime les défis, l'originalité et les choses bien faites !
 
 ## Mes objectifs
 
-- Participer à de gros projets dans de grosses boites industrielles ou non pour voir comment elles gèrent leurs projets etc...
+- Participer à de gros projets dans de grosses boites pour voir comment elles gèrent leurs projets etc...
 - Dans le plus long terme, hybrider avec du freelance.
 
 ## Mes centres d'intérêt
@@ -103,7 +103,7 @@ J'aime les défis, l'originalité et les choses bien faites !
 ## Mes futurs projets
 
 - Approfondir le Domain Driven Design
-- coupler encore plus le développement et la finance pour améliorer mes compétences dans les deux domaines
+- Coupler encore plus le développement et la finance pour améliorer mes compétences dans les deux domaines
 
 ## Pour me contacter ?
 
@@ -113,4 +113,4 @@ J'aime les défis, l'originalité et les choses bien faites !
  A bientôt ! 👋
 </h1>
 
-PS : Le projet ML-Trade est accessible sur demande, envoyer un message discord si vous êtes intéressé.
+PS : Le projet ML-Trade v2 est accessible sur demande, envoyer un message pv discord si vous êtes intéressé.
