@@ -1,116 +1,117 @@
-<h1 align="center">
-Salut 👋, Je suis Vincent REMY
-</h1>
+<h1 align="center">Salut 👋, je suis Vincent REMY</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=virex22&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=virex22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-## Bienvenue sur mon Github !
+## Bienvenue sur mon GitHub !
 
-Je suis actuellement en étude chez Metz Numéric Scool, pour obtenir un mastère Expert en ingénierie informatique. Étant en alternance, je travaille aussi chez Chaussea en tant que développeur Full-Stack.
-J'essaie d'apprendre un maximum de choses différentes et de m'améliorer sans cesse sur les points déjà acquis.
-J'aime les défis, l'originalité et les choses bien faites !
+🎓 Diplômé Mastère Expert en Ingénierie Informatique (major de promo)  
+💼 Ingénieur Logiciel / Développeur Full-Stack chez Aydo  
+🧠 J’aime concevoir des systèmes clairs, robustes et évolutifs, et comprendre ce qui les rend bons  
+⚡ Passionné par le clean code, l’architecture logicielle et la finance de marché
 
-## Vous voulez en savoir plus sur moi ?
 
-- 👋 On peut m'appeler Vincent REMY ou par mon pseudo Virex22
-- 💼 En alternance chez Chaussea en tant que développeur Full-Stack
-- 🌐 vous pouvez visiter [ici](https://vincent-remy.fr) mon portfolio
-- 👀 En ce moment je m'intéresse aux architectures logicielles et au Domain Driven Design
-- 🌱 J'apprends aussi les algorithmes d'apprentissage par selection naturelle
-- 💬 Demandez-moi n'importe quoi sur le développement, je suis toujours prêt à aider !
-- 📫 Contactez-moi sur :
+## 👨‍💻 À propos de moi
 
-<a href="https://www.linkedin.com/in/vincent-remy2/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent remy" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/channel/UCA5GNHsUW0LybjZjlDiOWPQ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="virex22" height="30" width="40" />
-</a>
-<a href="https://discord.gg/D96cKg3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Virex22" height="30" width="40" />
-</a>
+- Pseudo : **Virex22**
+- 🌐 Portfolio : [vincent-remy.fr](https://vincent-remy.fr)
+- 💬 Intérêts techniques : DDD, CQRS, Event Sourcing, Hexagonal Architecture
+- 🔭 En ce moment : calcul distribué, orchestration et traitement parallèle efficace
+- 📫 Contact :
+  - [LinkedIn](https://www.linkedin.com/in/vincent-remy2/)
+  - [YouTube](https://www.youtube.com/channel/UCA5GNHsUW0LybjZjlDiOWPQ)
+  - Discord : **Virex22**
 
-- Discord personnel : Virex22
+## 🧰 Stack principale
 
-## Principal technologies
-
-### Développement Web
+### 🌐 Web
 
 <div>
-  <img src="img/html5.svg" alt="html5" width="40" height="40"/>
-  <img src="img/css3.svg" alt="css3" width="40" height="40"/>
-  <img src="img/js.svg" alt="js" width="40" height="40"/>
-  <img src="img/php.svg" alt="php" width="40" height="40"/>
-  <img src="img/symfony.svg" alt="symfony" width="40" height="40"/>
-  <img src="img/twig.svg" alt="twig" width="40" height="40"/>
-  <img src="img/react.svg" alt="react" width="40" height="40"/>
+  <img src="img/html5.svg" width="30" height="30" />
+  <img src="img/css3.svg" width="30" height="30" />
+  <img src="img/js.svg" width="30" height="30" />
+  <img src="img/react.svg" width="30" height="30" />
+  <img src="img/ts.svg" width="30" height="30" />
+  <img src="img/php.svg" width="30" height="30" />
+  <img src="img/symfony.svg" width="30" height="30" />
+  <img src="img/twig.svg" width="30" height="30" />
 </div>
 
-### Développement Logiciel
+### 🖥️ Backend & Logiciel
 
 <div>
-  <img src="img/cs.svg" alt="php" width="40" height="40"/>
-  <img src="img/cpp.svg" alt="cpp" width="40" height="40"/>
-  <img src="img/unity.svg" alt="unity" width="40" height="40"/>
-  <img src="img/unreal.svg" alt="unreal" width="40" height="40"/>
+  <img src="img/go.svg" width="30" height="30" />
+  <img src="img/cs.svg" width="30" height="30" />
+  <img src="img/cpp.svg" width="30" height="30" />
+  <img src="img/unity.svg" width="30" height="30" />
+  <img src="img/unreal.svg" width="30" height="30" />
 </div>
 
-### Développement Mobile
+### 📱 Mobile
 
 <div>
-  <img src="img/reactnative.svg" alt="php" width="40" height="40"/>
-  <img src="img/flutter.svg" alt="flutter" width="40" height="40"/>
+  <img src="img/reactnative.svg" width="30" height="30" />
+  <img src="img/flutter.svg" width="30" height="30" />
 </div>
 
-### Autres Outils
+### 🛠️ Outils & DevOps
 
 <div>
-  <img src="img/figma.svg" alt="php" width="40" height="40"/>
-  <img src="img/postman.svg" alt="php" width="40" height="40"/>
-  <img src="img/git.svg" alt="php" width="40" height="40"/>
+  <img src="img/figma.svg" width="30" height="30" />
+  <img src="img/postman.svg" width="30" height="30" />
+  <img src="img/git.svg" width="30" height="30" />
+  <img src="img/docker.svg" width="30" height="30" />
 </div>
 
-## Mes statistiques
+## 📊 Statistiques GitHub
 
 <details>
-  <summary>📊 Mes statistiques Github</summary>
+  <summary>📈 Activité générale</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=virex22&show_icons=true&theme=gotham" alt="virex22" />
+  <img src="https://github-readme-stats.vercel.app/api?username=virex22&show_icons=true&theme=gotham" />
 </details>
 
 <details>
-  <summary>🌐 Mes statistiques d'utilisation de langage</summary>
+  <summary>🔤 Langages les plus utilisés</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virex22&layout=compact&theme=gotham" alt="virex22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virex22&layout=compact&theme=gotham" />
 </details>
 
 <details>
-  <summary>🏆 Mes Trophées</summary>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=virex22&theme=onedark" alt="virex22" />
+  <summary>🏆 Trophées</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=virex22&theme=onedark" />
 </details>
 
-## Mes objectifs
+<details>
+  <summary>🔥 Streak actuel</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virex22&theme=gotham" />
+</details>
 
-- Participer à de gros projets dans de grosses boites pour voir comment elles gèrent leurs projets etc...
-- Dans le plus long terme, hybrider avec du freelance.
+### 📣 Social GitHub
 
-## Mes centres d'intérêt
+![Followers](https://img.shields.io/github/followers/virex22?label=Suiveurs&style=social)  
+![Stars](https://img.shields.io/github/stars/virex22?style=social)
 
-- Lire des livres tech ou sur du développement personnel
-- La finance et le trading
+## 🎯 Objectifs
 
-## Mes futurs projets
+- Approfondir les architectures distribuées résilientes (microservices, DDD, event sourcing)
+- Maîtriser les stacks Cloud Native (CI/CD, Docker, Kubernetes)
+- Concevoir une plateforme de backtest financiére temps réel
+- Hybrider développement logiciel et finance algorithmique
 
-- Approfondir le Domain Driven Design
-- Coupler encore plus le développement et la finance pour améliorer mes compétences dans les deux domaines
+## 💡 Intérêts
 
-## Pour me contacter ?
+- 📘 Lecture (tech, finance, dev perso)
+- 💹 Trading, analyse de marchés, automatisation
 
-- Vous pouvez me contacter sur le [formulaire de contact de mon portfolio](https://vincent-remy.fr/contact)
 
-<h1 align="center">
- A bientôt ! 👋
-</h1>
+## 📬 Me contacter
 
-PS : Le projet ML-Trade v2 est accessible sur demande, envoyer un message pv discord si vous êtes intéressé.
+👉 [Formulaire de contact](https://vincent-remy.fr/contact)
+
+<p align="center"><strong><span style="font-size: 2em;">À bientôt ! 👋</span></strong></p>
+
+<sub><i>⚠️ Le projet ML-Trade v2 est accessible sur demande -> MP Discord</i></sub>
